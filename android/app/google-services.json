@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265572156615",
+    "project_id": "firestore-6487d",
+    "storage_bucket": "firestore-6487d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265572156615:android:dcfbef71322b8dacca2ae2",
+        "android_client_info": {
+          "package_name": "com.luisA.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgQysgypLwjtmH9mSAKJ0XDx2IQk07RD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
